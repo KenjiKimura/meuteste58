@@ -1,0 +1,24 @@
+{
+  "name": "meuteste58",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "pg": "^7.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenjiKimura/meuteste58.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenjiKimura/meuteste58/issues"
+  },
+  "homepage": "https://github.com/KenjiKimura/meuteste58#readme"
+}
